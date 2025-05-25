@@ -79,10 +79,9 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 hysteria2-b9d0e5ad (United States)",
-        "🇺🇦 hysteria2-56efaafe (Ukraine)",
-        "🇮🇹 hysteria2-28154a08 (Italy)",
-        "🇷🇺 hysteria2-9127dc5d (Russia)",
+        "🇺🇦 hysteria2-f3e8a481 (Ukraine)",
+        "🇮🇹 hysteria2-da6d8eb0 (Italy)",
+        "🇷🇺 hysteria2-e9fe58c3 (Russia)",
         "direct"
       ]
     },
@@ -90,10 +89,9 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 hysteria2-b9d0e5ad (United States)",
-        "🇺🇦 hysteria2-56efaafe (Ukraine)",
-        "🇮🇹 hysteria2-28154a08 (Italy)",
-        "🇷🇺 hysteria2-9127dc5d (Russia)"
+        "🇺🇦 hysteria2-f3e8a481 (Ukraine)",
+        "🇮🇹 hysteria2-da6d8eb0 (Italy)",
+        "🇷🇺 hysteria2-e9fe58c3 (Russia)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -105,19 +103,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-b9d0e5ad (United States)",
-      "server": "107.172.235.75",
-      "server_port": 47177,
-      "password": "c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "dxobg4azmk.gafnode.sbs"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇺🇦 hysteria2-56efaafe (Ukraine)",
+      "tag": "🇺🇦 hysteria2-f3e8a481 (Ukraine)",
       "server": "185.126.255.78",
       "server_port": 21005,
       "password": "c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a",
@@ -129,7 +115,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇮🇹 hysteria2-28154a08 (Italy)",
+      "tag": "🇮🇹 hysteria2-da6d8eb0 (Italy)",
       "server": "23.132.228.217",
       "server_port": 38746,
       "password": "c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a",
@@ -141,7 +127,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇷🇺 hysteria2-9127dc5d (Russia)",
+      "tag": "🇷🇺 hysteria2-e9fe58c3 (Russia)",
       "server": "85.235.205.212",
       "server_port": 55182,
       "password": "c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a",
